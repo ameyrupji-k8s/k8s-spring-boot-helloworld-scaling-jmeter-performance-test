@@ -8,6 +8,7 @@ Adding jMeter test to create performance tests for verifying working autoscaling
 ## Useful links
 
 - https://www.guru99.com/jmeter-alternative.html
+- JMeter Plugins Graphs: https://jmeter-plugins.org/?search=jpgc-graphs-basic
 
 | Next ▸ |
 |-----|
